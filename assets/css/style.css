@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "SSF";
+  src: url(../fonts/SSFBreakthrough-Regular.ttf);
+}
+h1 {
+  font-family: "SSF";
+}
+
+.container {
+  padding-top: 100px;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.panel-nav {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
+
+.panel-nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: darkslateblue;
+}
+
+.code {
+  color: dimgray;
+}
+
+.zag {
+  color: cornflowerblue;
+}
+
+.slider {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: auto 1px solid black;
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+.mb {
+  width: 400px;
+}
+
+.slider-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.product-company {
+  display: flex;
+  gap: 20px;
+}
+
+.main {
+  display: flex;
+  margin-top: 50px;
+}
+
+.copmpany-logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+
+.cats {
+  display: flex;
+  gap: 20px;
+  padding-left: 600px;
+  margin-top: -350px;
+  gap: 20pxpx;
+}
+.def {
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.imba {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.imba-text2 {
+  border: none;
+}
+
+.bb {
+  display: flex;
+  margin-top: 50px;
+}
